@@ -1,9 +1,6 @@
 # Programing by Doing
 Series of Java exercises, as described on http://programmingbydoing.com/
 
-| Basics and Printing - 9 assignments, 58 points                                                                            |
-|---------------------------------------------------------------------------------------------------------------------------|
-
 | Index     | Category            | Assignment Name                               | Points Achieved / Total Assig. Points   |
 |-----------|---------------------|-----------------------------------------------|-----------------------------------------|
 | 0         | Basics and Printing | [Installing the Java Development Kit (JDK)](http://programmingbydoing.com/a/jdk-install.html)                                                                     | 20/20                                   |
@@ -13,9 +10,7 @@ Series of Java exercises, as described on http://programmingbydoing.com/
 | 4         | Basics and Printing | [A Good First Program](http://programmingbydoing.com/a/a-good-first-program.html)                                                                                             | 4/4                                     |
 | 5         | Basics and Printing | [Comments and Slashes](http://programmingbydoing.com/a/comments-and-slashes.html)                                                                                             | 3/3                                     |
 | 6         | Basics and Printing | [A Letter to Yourself](http://programmingbydoing.com/a/letter-to-yourself.html)                                                                                               | 7/7                                     |
-| 7         | Basics and Printing | [Your Initials](http://programmingbydoing.com/a/your-initials.html)                                                                                               | 6/6                                     |
-| Variables - 5 assignments, 48 points                                                                            |
-|---------------------------------------------------------------------------------------------------------------------------|
+| 7         | Basics and Printing | [Your Initials](http://programmingbydoing.com/a/your-initials.html)                                                                                              | 6/6                                                  |
 
 
 
