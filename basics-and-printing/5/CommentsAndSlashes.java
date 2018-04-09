@@ -1,7 +1,8 @@
-public class CommentsAndSlashes
-{
-    public static void main( String[] args )
-    {
+// Gabriel Mendes de Moraes
+// 09/04/2018
+
+public class CommentsAndSlashes	{
+    public static void main( String[] args )	{
         // A comment, this is so you can read your program later.
         // Anything after the // is ignored by Java.
 
