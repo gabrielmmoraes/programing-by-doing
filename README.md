@@ -14,4 +14,4 @@ Series of Java exercises, as described on http://programmingbydoing.com/
 | 8         | Basics and Printing | [Numbers and Math](http://programmingbydoing.com/a/numbers-and-math.html)                                                                                                     | 7/7                                     |
 | 9         | Variables | [Variables and Names](http://programmingbydoing.com/a/numbers-and-math.html)                                                                                                            | 7/7                                     |
 | 10        | Variables | [More Variables and Printing](http://programmingbydoing.com/a/more-variables-and-printing.html)                                                                                         | 7/7                                     |
-
+| 11        | Variables | [Using Variables](http://programmingbydoing.com/a/more-variables-and-printing.html)                                                                                                     | 9/9                                     |
