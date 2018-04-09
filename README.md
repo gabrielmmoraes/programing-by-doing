@@ -13,9 +13,3 @@ Series of Java exercises, as described on http://programmingbydoing.com/
 | 7         | Basics and Printing | [Your Initials](http://programmingbydoing.com/a/your-initials.html)                                                                                                           | 6/6                                     |
 | 8         | Basics and Printing | [Numbers and Math](http://programmingbydoing.com/a/numbers-and-math.html)                                                                                                     | 7/7                                     |
 | 9         | Variables | [Variables and Names](http://programmingbydoing.com/a/numbers-and-math.html)                                                                                                     | 7/7                                     |
-
-
-
-
-
-
